@@ -129,3 +129,22 @@ textarea {
 form {margin-left: 3px;}
 
 .submission {border-style: solid; border-color: #F9EDE0; padding: 5px; width: 400px; margin-bottom: 15px;}
+
+.nested {
+	margin-right: 6px;
+}
+
+ul {
+	list-style-type: square;
+}
+
+li a {
+	text-decoration: none;
+	color: #F9EDE0;
+}
+
+li a:hover {
+	text-decoration: underline;
+	background-color: #281a1b;
+	cursor: pointer;
+}
